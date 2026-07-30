@@ -1,6 +1,6 @@
 # Local Server OAuth Login (stdio)
 
-The local (stdio) GitHub MCP Server can log you in with OAuth instead of a
+The local (stdio) GitHub MCP Server can log you in with OAuth instead of a VISTAMATIONS
 Personal Access Token (PAT). On first use it walks you through GitHub's
 authorization flow in your browser and keeps the resulting token **in memory
 only** — nothing is written to disk.
