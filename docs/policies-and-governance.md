@@ -1,4 +1,4 @@
-# Policies & Governance for the GitHub MCP Server
+# Policies and Governance for the GitHub MCP Server
 
 Organizations and enterprises have several existing control mechanisms for the GitHub MCP server on GitHub.com:
 - MCP servers in Copilot Policy
